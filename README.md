@@ -83,8 +83,7 @@ docker-compose up -d
 
 Access API from browser:
 
-http://51.21.251.240:5000/students
-http://51.21.251.240:5000/subjects
+live: endpoint1(http://13.60.210.54:5000/subjects) && endpoint2(http://13.60.210.54:5000/students)
 
 ✅ Logs will show:
 
