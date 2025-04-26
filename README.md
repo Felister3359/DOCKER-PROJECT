@@ -42,8 +42,6 @@ Test endpoints locally:
 http://localhost:5000/students
 http://localhost:5000/subjects
 
----
-
 ## 🧩 Docker Compose Setup
 
 We use **Docker Compose** to manage multiple services (Node.js API + PostgreSQL).
